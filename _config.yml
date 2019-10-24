@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Trishten"
-  avatar           : "download.gif"
-  bio              : "Front end web developer in traning"
-  location         : "St.louis, MO"
+  name             : #"Trishten"
+  avatar           : #"profile.png"
+  bio              : #"Front end web developer in traning"
+  location         : #"St.louis, MO"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
