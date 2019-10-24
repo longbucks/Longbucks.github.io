@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Trishten"
-  avatar           : "images/download.gif"
+  avatar           : "download.gif"
   bio              : "Front end web developer in traning"
   location         : "St.louis, MO"
   employer         :
