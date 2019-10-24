@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Trishten Gregory / Chris is idiot"
 title_separator          : "-"
-name                     : &name #"Trishten Gregory"
-description              : &description #"Front end web  developer in traning. "
-url                      : # https://Longbucks.com.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Trishten Gregory"
+description              : &description "Front end web  developer in traning. "
+url                      :  https://Longbucks.com.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Longbucks/Longbucks.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Trishten"
-  avatar           : #"download.gif"
-  bio              : #"Front end web developer in traning"
-  location         : #"St.louis, MO"
+  name             : "Trishten"
+  avatar           : "download.gif"
+  bio              : "Front end web developer in traning"
+  location         : "St.louis, MO"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
