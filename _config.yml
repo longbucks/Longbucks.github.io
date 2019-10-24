@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Trishten Gregory"
+description              : &Front end web  developer in traning. "
+url                      : https://Longbucks.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "longbucks/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Trishten"
   avatar           : "download.gif"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Front end web developer in traning"
+  location         : "St.louis, MO"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  "gtrishten63@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
